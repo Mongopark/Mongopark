@@ -8,9 +8,9 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mongopark" alt="Mongopark" /></a> </p>
 <p align="left"> <a href="https://twitter.com/maestro.israel" target="blank"><img src="https://img.shields.io/twitter/follow/mongopark?logo=twitter&style=for-the-badge" alt="mongopark" /></a> </p>
 <ul>
-<li> 🔭 I’m currently working on [Terms and condition generator](Terms77.heroku.app) </li>
-<li> 🌱 I’m currently learning **Swift,Node.js** </li>
-<li> 👯 I’m looking to collaborate on **Ecommerce website using React.js** </li>
+<li> 🔭 I’m currently working on [Real estate Ecommerce Website](mongopark.vercel.app) </li>
+  <li> 🌱 I’m currently learning <b>Swift,Node.js</b> </li>
+<li> 👯 I’m looking to collaborate on <b>Ecommerce website using React.js</b> </li>
 <li> 👨‍💻 All of my projects are available at [mongisrael.vercel.app](mongisrael.vercel.app) </li> </li>
 <li> 📫 How to reach me **mongsolomon@gmail.com** </li>
 <li> 📄 Know about my experiences https://mongisrael.vercel.app/html.resume </li>
