@@ -6,7 +6,7 @@ Software Engineer and Blockchain Enthusiast
 Goal-oriented and highly motivated , Fast self learner, Good team player, Time and task management, Strong communication skills, Solid technical expertise. I am a active member of developers communities like GenZTechies,Ingressive For Good, DevCareer Africa, Google developers student club.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eazyisreal&label=Profile%20views&color=0e75b6&style=flat" alt="Mongopark" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mongopark" alt="Mongopark" /></a> </p>
-<p align="left"> <a href="https://twitter.com/maestro.israel" target="blank"><img src="https://img.shields.io/twitter/follow/mongopark?logo=twitter&style=for-the-badge" alt="mongopark" /></a> </p>
+<p align="left"> <a href="https://instagram.com/maestro.israel" target="blank"><img src="https://img.shields.io/instagram/follow/mongopark?logo=instagram&style=for-the-badge" alt="mongopark" /></a> </p>
 <ul>
 <li> 🔭 I’m currently working on <a href="https://mongopark.vercel.app">Real estate Ecommerce Website</a> </li>
   <li> 🌱 I’m currently learning <b>Swift,Node.js</b> </li>
