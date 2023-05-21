@@ -7,12 +7,14 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eazyisreal&label=Profile%20views&color=0e75b6&style=flat" alt="Mongopark" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mongopark" alt="Mongopark" /></a> </p>
 <p align="left"> <a href="https://twitter.com/maestro.israel" target="blank"><img src="https://img.shields.io/twitter/follow/mongopark?logo=twitter&style=for-the-badge" alt="mongopark" /></a> </p>
-- 🔭 I’m currently working on [Terms and condition generator](Terms77.heroku.app)
-- 🌱 I’m currently learning **Swift,Node.js**
-- 👯 I’m looking to collaborate on **Ecommerce website using React.js**
-- 👨‍💻 All of my projects are available at [mongisrael.vercel.app](mongisrael.vercel.app)
-- 📫 How to reach me **mongsolomon@gmail.com**
-- 📄 Know about my experiences https://mongisrael.vercel.app/html.resume
+<ul>
+<li> 🔭 I’m currently working on [Terms and condition generator](Terms77.heroku.app) </li>
+<li> 🌱 I’m currently learning **Swift,Node.js** </li>
+<li> 👯 I’m looking to collaborate on **Ecommerce website using React.js** </li>
+<li> 👨‍💻 All of my projects are available at [mongisrael.vercel.app](mongisrael.vercel.app) </li> </li>
+<li> 📫 How to reach me **mongsolomon@gmail.com** </li>
+<li> 📄 Know about my experiences https://mongisrael.vercel.app/html.resume </li>
+  </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/maestro.israel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maestro.israel" height="30" width="40" /></a>
