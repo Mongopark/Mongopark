@@ -25,4 +25,4 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/eazyisreal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mong israel" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongopark&show_icons=true&locale=en&layout=compact" alt="mongopark" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eazyisreal&show_icons=true&locale=en" alt="mongopark" /></p>
+
