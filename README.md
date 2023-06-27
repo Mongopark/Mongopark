@@ -14,7 +14,6 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 <li> 👨‍💻 All of my projects are available at <a href="https://mongisrael.vercel.app">portfolio website</a> </li> </li>
 <li> 📫 How to reach me <a href="malito:mongsolomon@gmail.com">mongsolomon@gmail.com</a> </li>
 <li> 📄 Know about my experiences <a href="https://mongisrael.vercel.app/html.resume">My Resume</a> </li>
-
   </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
