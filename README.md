@@ -77,15 +77,6 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://render.com/icons/icon-512x512.png?v=3" alt="render" width="40" height="40"/> 
-  </a>
-  <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/331402/dbdiagram.svg" alt="dbdiagram" width="40" height="40"/> 
-  </a>
-  <a href="https://www.dbml.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://dbml.dbdiagram.io/assets/landing_page/favicon.png" alt="dbml" width="40" height="40"/> 
-  </a>
 </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongopark&show_icons=true&locale=en&layout=compact" alt="ndumatt1" /></p>
 <h3 align="left">Support:</h3>
