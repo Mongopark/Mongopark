@@ -33,9 +33,6 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
-  </a> 
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/> 
   </a>
@@ -47,9 +44,6 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
@@ -63,17 +57,8 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="render" width="40" height="40"/> 
-  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> 
-  </a>
-  <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/374145/dbdiagram.svg" alt="dbdiagram" width="40" height="40"/> 
-  </a>
-  <a href="https://www.dbml.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dbml/dbml-icon.svg" alt="dbml" width="40" height="40"/> 
   </a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/> 
@@ -83,6 +68,24 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/render.svg" alt="render" width="40" height="40"/> 
+  </a>
+  <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/331402/dbdiagram.svg" alt="dbdiagram" width="40" height="40"/> 
+  </a>
+  <a href="https://www.dbml.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbml.svg" alt="dbml" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongopark&show_icons=true&locale=en&layout=compact" alt="ndumatt1" /></p>
