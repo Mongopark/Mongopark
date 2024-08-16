@@ -69,23 +69,23 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
   </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/84c711599d73b9f107e36fe4c2b30dc29f1d2027/5b3c8/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
+  </a> 
   <a href="https://render.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/render.svg" alt="render" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/Render%20(website%20hosting).svg" alt="render" width="40" height="40"/> 
   </a>
   <a href="https://dbdiagram.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331402/dbdiagram.svg" alt="dbdiagram" width="40" height="40"/> 
   </a>
   <a href="https://www.dbml.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbml.svg" alt="dbml" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://dbml.dbdiagram.io/assets/landing_page/favicon.png" alt="dbml" width="40" height="40"/> 
   </a>
 </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongopark&show_icons=true&locale=en&layout=compact" alt="ndumatt1" /></p>
