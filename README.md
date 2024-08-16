@@ -78,8 +78,8 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
   </a>
 </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongopark&show_icons=true&locale=en&layout=compact" alt="ndumatt1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mongopark&show_icons=true&locale=en" alt="mongopark" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mongsolomow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mong israel" /></a></p><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logickoder&show_icons=true&locale=en&layout=compact" alt="logickoder" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=logickoder&show_icons=true&locale=en&layout=compact" alt="mongopark" /></p>
 
