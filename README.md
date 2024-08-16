@@ -79,8 +79,8 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
   </a>
 </p>
 <p align="left">&nbsp;
-<p><h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/mongsolomow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mong israel" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<a href="https://www.buymeacoffee.com/mongsolomow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mong israel" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=mongopark&show_icons=true&locale=en" alt="mongopark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logickoder&show_icons=true&locale=en&layout=compact" alt="mongopark" />
 </p>
