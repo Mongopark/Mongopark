@@ -8,7 +8,7 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 <p align="left"> <a href="https://twitter.com/dev_mong" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mong?logo=twitter&style=for-the-badge" alt="velcroorg" /></a> </p>
 <ul>
 <li> 🔭 I’m currently working on <a href="https://mywebschools.com">BCT Academy</a> </li>
-  <li> 🌱 I’m currently learning <b>Swift,Node.js</b> </li>
+  <li> 🌱 I’m currently learning <b>Swift, Solidity</b> </li>
 <li> 👯 I’m looking to collaborate on <b>Ecommerce website using Next JS</b> </li>
 <li> 👨‍💻 Some of my projects are available at <a href="https://israelmong.vercel.app">portfolio website</a> </li> </li>
 <li> 📫 How to reach me <a href="malito:mongsolomon@gmail.com">mongsolomon@gmail.com</a> </li>
